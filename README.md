@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/pavan9099/LcS/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/pavan9099/LcS/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/pavan9099/LcS/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pavan9099/LcS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/pavan9099/LcS/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/pavan9099/LcS/tree/master/0190-reverse-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
