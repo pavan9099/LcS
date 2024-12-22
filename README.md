@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/pavan9099/LcS/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pavan9099/LcS/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavan9099/LcS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/pavan9099/LcS/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pavan9099/LcS/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/pavan9099/LcS/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
